@@ -1,0 +1,17 @@
+D:\Jonayet\ASP .NET Training\Day 11 - 20 July 2014\Practices\PersonApp\bin\Debug\PersonApp.exe.config
+D:\Jonayet\ASP .NET Training\Day 11 - 20 July 2014\Practices\PersonApp\bin\Debug\PersonApp.exe
+D:\Jonayet\ASP .NET Training\Day 11 - 20 July 2014\Practices\PersonApp\bin\Debug\PersonApp.pdb
+D:\Jonayet\ASP .NET Training\Day 11 - 20 July 2014\Practices\PersonApp\obj\Debug\PersonApp.csprojResolveAssemblyReference.cache
+D:\Jonayet\ASP .NET Training\Day 11 - 20 July 2014\Practices\PersonApp\obj\Debug\PersonApp.PersonUI.resources
+D:\Jonayet\ASP .NET Training\Day 11 - 20 July 2014\Practices\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
+D:\Jonayet\ASP .NET Training\Day 11 - 20 July 2014\Practices\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.Cache
+D:\Jonayet\ASP .NET Training\Day 11 - 20 July 2014\Practices\PersonApp\obj\Debug\PersonApp.exe
+D:\Jonayet\ASP .NET Training\Day 11 - 20 July 2014\Practices\PersonApp\obj\Debug\PersonApp.pdb
+D:\Jonayet\ASP .NET Training\Day 13 - 22 July 2014\Practices\PersonApp\bin\Debug\PersonApp.exe.config
+D:\Jonayet\ASP .NET Training\Day 13 - 22 July 2014\Practices\PersonApp\obj\Debug\PersonApp.exe
+D:\Jonayet\ASP .NET Training\Day 13 - 22 July 2014\Practices\PersonApp\obj\Debug\PersonApp.pdb
+D:\Jonayet\ASP .NET Training\Day 13 - 22 July 2014\Practices\PersonApp\bin\Debug\PersonApp.exe
+D:\Jonayet\ASP .NET Training\Day 13 - 22 July 2014\Practices\PersonApp\bin\Debug\PersonApp.pdb
+D:\Jonayet\ASP .NET Training\Day 13 - 22 July 2014\Practices\PersonApp\obj\Debug\PersonApp.PersonUI.resources
+D:\Jonayet\ASP .NET Training\Day 13 - 22 July 2014\Practices\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
+D:\Jonayet\ASP .NET Training\Day 13 - 22 July 2014\Practices\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.Cache

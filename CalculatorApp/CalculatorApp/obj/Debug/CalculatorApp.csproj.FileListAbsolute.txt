@@ -1,0 +1,9 @@
+G:\Khalid\Day12\work\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+G:\Khalid\Day12\work\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+G:\Khalid\Day12\work\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+G:\Khalid\Day12\work\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+G:\Khalid\Day12\work\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorUI.resources
+G:\Khalid\Day12\work\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+G:\Khalid\Day12\work\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+G:\Khalid\Day12\work\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+G:\Khalid\Day12\work\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
